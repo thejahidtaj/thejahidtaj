@@ -52,7 +52,7 @@ React Native and TypeScript for apps, Python and Java for everything else.
 
 ## Contribution Snake
 
-<img src="https://raw.githubusercontent.com/thejahidtaj/thejahidtaj/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/thejahidtaj/thejahidtaj/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%" />
 
 </div>
 
@@ -62,8 +62,8 @@ React Native and TypeScript for apps, Python and Java for everything else.
 
 ## Connect
 
-<a href="https://t.me/ROOTJAHID" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:rootjahid.biz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/thejahidtaj" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:jahidtaj@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 
 </div>
 
@@ -72,4 +72,3 @@ React Native and TypeScript for apps, Python and Java for everything else.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D9FF&height=100&section=footer" />
 </div>
-
