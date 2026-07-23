@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0d1117&height=180&section=header&text=JAHID%20TAJ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jahid+Taj;React+Native+Developer;TypeScript+%7C+Python+%7C+Java;Building+things+that+ship." alt="Typing SVG" />
 
