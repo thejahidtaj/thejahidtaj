@@ -35,8 +35,7 @@ React Native and TypeScript for apps, Python and Java for everything else.
 
 ## GitHub Stats
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thejahidtaj&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejahidtaj&theme=tokyonight&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=thejahidtaj&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
