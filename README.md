@@ -1,102 +1,75 @@
-Hi There! 👋 I'm ROOT JAHID
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RootJahidXploit&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ROOT JAHID"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jahid+Taj;React+Native+Developer;TypeScript+%7C+Python+%7C+Java;Building+things+that+ship." alt="Typing SVG" />
 
-🚀 About Me
+<br/>
 
-```go
-package main
+<img src="https://komarev.com/ghpvc/?username=thejahidtaj&label=Profile%20Views&color=0d1117&style=flat" alt="Profile Views" />
 
-import "fmt"
+</div>
 
-type Person struct {
-  name     string
-  username string
-  age      int
-  hobbies  []string
-  job      string
-}
+<br/>
 
-func main() {
-  var me = new(Person)
-  
-  me.name     = "JAHID TAJ"
-  me.username = "ROOT JAHID"
-  me.age      = 18
-  me.job      = "Python Developer | Data Scientist"
-  me.hobbies = []string{"coding", "music", "learning", "gaming", "cybersecurity"}
-  
-  fmt.Println(me)
-}
-```
+<div align="center">
 
-🔗 Connect With Me
+## About
 
-<p align="center">
-  <a href="https://t.me/ROOTJAHID" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green">
-  </a>
-  <a href="mailto:rootjahid.biz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/ROOTJAHIDXPLOIT" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+Developer working across mobile and web.
+React Native and TypeScript for apps, Python and Java for everything else.
 
-💻 Tech Stack
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
+<br/>
 
-📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RootJahidXploit&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RootJahidxploit&theme=dark&hide_border=false" />
-</p>
+## Tech Stack
 
-<p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootJahidXploit&theme=dark&hide_title=true&layout=compact&langs_count=8" />
-</p>
-<p align="center"><img src="https://github.com/LMNx9-JOHNY/LMNx9-JOHNY/blob/main/github-contribution-grid-snake.svg"></p>
+<img src="https://skillicons.dev/icons?i=react,ts,py,java,html,css,git,linux&theme=dark" />
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+</div>
+
+<br/>
+
+<div align="center">
+
+## GitHub Stats
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thejahidtaj&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejahidtaj&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thejahidtaj&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Contribution Snake
+
+<img src="https://raw.githubusercontent.com/thejahidtaj/thejahidtaj/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Connect
+
+<a href="https://t.me/ROOTJAHID" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:rootjahid.biz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D9FF&height=100&section=footer" />
+</div>
+
