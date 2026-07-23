@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://github.com/thejahidtaj.png" width="150" height="150" style="border-radius: 50%;" alt="Jahid Taj" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jahid+Taj;React+Native+Developer;TypeScript+%7C+Python+%7C+Java;Building+things+that+ship." alt="Typing SVG" />
 
 <br/>
