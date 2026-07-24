@@ -39,7 +39,7 @@ React Native and TypeScript for apps, Python and Java for everything else.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=thejahidtaj&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://raw.githubusercontent.com/thejahidtaj/thejahidtaj/main/profile/stats.svg" alt="GitHub Stats" />
 
 </div>
 
